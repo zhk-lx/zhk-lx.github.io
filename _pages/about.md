@@ -1,56 +1,54 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: " Misson lab for biological system optimization"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am Huikai Zhang (postdoctoral researc fellow) from the Institute of Biomechanics and Medical Engineering, Department of Engineering Mechanics, Tsinghua University. My research interests are biomechanics, biophysics, computational mechanics and structural optimization theory. Recent onging works are about the multicellular life design and digital organs design. I have awarded "China Postdoctoral Innovation Talent Support Program", "Shuimu Postdoctoral Fellow, Tsinghua University", "Qinghang Scholar, Tsinghua University". My academic page is [Google Scholar](https://scholar.google.com/citations?hl=en&user=l_1Pj34AAAAJ&view_op=list_works&sortby=pubdate); My superior is professor Xi-Qiao Feng [Google Scholar](https://scholar.google.com/citations?user=Hpg2NCcAAAAJ&hl=en).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+** Publications
+#1. Hui-kai Zhang, Bowen Xu, Ziyao Jia, Bo Li, and Xi-Qiao Feng. (2024) Inverse design of three￾dimensional multicellular biobots with target functions. Journal of the Mechanics and Physics of 
+Solids 187:105634. (related to the design of organoids)
+2. Hui-Kai Zhang, Wei-Tong Chen, Shi-Hao Xu, Jian Wu, Bo Li, and Xi-Qiao Feng. (2023). Active 
+topological phase transitions in high-order elastic topological insulators driven by pneumatic methods 
+and liquid metals. Journal of Applied Physics 133: 104504.
+3. Hui-Kai Zhang, Wenjun Wu, Zhan Kang, and Xi-Qiao Feng. (2020). Topology optimization method for 
+the design of bioinspired self-similar hierarchical microstructures. Computer Methods in Applied 
+Mechanics and Engineering 372: 113399.
+4. Hui-Kai Zhang, Jingyi Zhou, Wei Fang, Huichan Zhao, Zi-Long Zhao, Xindong Chen, Hong-Ping Zhao, 
+and Xi-Qiao Feng. (2022). Multi-functional topology optimization of Victoria cruziana veins. Journal of 
+the Royal Society Interface 19: 20220298.
+5. Hui-Kai Zhang, Yaguang Wang, and Zhan Kang. (2019). Topology optimization for concurrent design 
+of layer-wise graded lattice materials and structures. International Journal of Engineering Science 138: 
+26-49.
+6. Hui-Kai Zhang, Zhan Kang, Yiqiang Wang and Wenjun Wu. (2019). Isotropic “quasi-fluid” metamaterials 
+designed by topology optimization. Advanced Theory and Simulations. 3: 1900182.
+7. Hui-Kai Zhang, Yangjun Luo, and Zhan Kang. (2018). Bi-material microstructural design of chiral auxetic 
+3
+metamaterials using topology optimization. Composite Structures 195: 232-248.
+8. Hui-Kai Zhang, Xi-Qiao Feng. (2021) Buckling-regulated bandgaps of soft metamaterials with chiral 
+hierarchical microstructure. Extreme Mechanics Letters 43:101166.
+9. Xindong Chen, Shihao Xu, Bizhu Chu, Jing Guo, Hui-Kai Zhang, Shuyi Sun, Le Song, Xi-Qiao Feng. 
+(2024). Applying Spatiotemporal Modeling of Cell Dynamics to Accelerate Drug Development. ACS nano
+18 (43), 29311-29336. 
+10. Huawei Feng, Peidong Lei, Hui-Kai Zhang, and Bin Liu. (2025) Least failure energy density: A 
+comprehensive strength index to evaluate and optimize heterogeneous periodic structures. Journal of 
+the Mechanics and Physics of Solids 193:105892. 
+11. Min Li, Hui-Kai Zhang, Wei Fang, Jun Wu, Xi-Qiao Feng. Directional soft jumper by harnessing 
+asymmetric snapping of a semi-open shell. Extreme Mechanics Letters 72:102242. 
+12. Yanli Sun, Hui-Kai Zhang, Ilya B Zavodnik, Hucheng Zhao, Xi-Qiao Feng. (2025) Mechanical 
+properties of intercellular tunneling nanotubes formed by different mechanisms. Heliyon, 10 (17). 
+13. Wenjun Wu, Hui-Kai Zhang, Yi-Qiang Wang, Pai Liu, and Zhan Kang. (2022). Concurrent topology 
+optimization model for dynamic property of structures with connectable graded microstructures.
+International Journal of Computational Methods, 2250037. 
+14. Huawei Feng, Hui-Kai Zhang, Zhongqi Li, Junjie Zhou, Peidong Lei, and Bin Liu. (2025). A Biomimetic 
+Moving-Mesh Topology Optimization Method. Available at SSRN 5034428.
+15. Qiang Cui, Hui-Kai Zhang, Siddharth-Suhas Pawar, Chuan Yu, Xi-Qiao Feng, and Song Qiu. (2022). 
+Topology optimization for 3D-printable large-scale metallic hollow structures with self-supporting. 
+Proceedings of the 27th International Conference of the Association for Computer-Aided Architectural 
+Design Research in Asia (CAADRIA).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
