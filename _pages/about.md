@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Huikai Zhang (postdoctoral researc fellow) from the Institute of Biomechanics and Medical Engineering, Department of Engineering Mechanics, Tsinghua University. My research interests are biomechanics, biophysics, computational mechanics and structural optimization theory. Recent onging works are about the multicellular life design and digital organs design. I have awarded "China Postdoctoral Innovation Talent Support Program", "Shuimu Postdoctoral Fellow, Tsinghua University", "Qinghang Scholar, Tsinghua University". My academic page is [Google Scholar](https://scholar.google.com/citations?hl=en&user=l_1Pj34AAAAJ&view_op=list_works&sortby=pubdate); My superior is professor Xi-Qiao Feng [Google Scholar](https://scholar.google.com/citations?user=Hpg2NCcAAAAJ&hl=en).
+I am Huikai Zhang, a postdoctoral research fellow at the Institute of Biomechanics and Medical Engineering, Department of Engineering Mechanics, Tsinghua University. My research interests include biomechanics, biophysics, computational mechanics, and structural optimization theory. My recent ongoing work focuses on optimization design of multicellular life (e.g., organoids) and digital organs.  
 
-** Publications
-#1. Hui-kai Zhang, Bowen Xu, Ziyao Jia, Bo Li, and Xi-Qiao Feng. (2024) Inverse design of three￾dimensional multicellular biobots with target functions. Journal of the Mechanics and Physics of 
+I have been awarded the “China Postdoctoral Innovation Talent Support Program”, the “Shuimu Postdoctoral Fellowship” at Tsinghua University, and the “Qinghang Scholar” title at Tsinghua University.   
+
+My academic profile can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=l_1Pj34AAAAJ&view_op=list_works&sortby=pubdate), and my advisor is Professor Xi-Qiao Feng, whose profile is also available on [Google Scholar](https://scholar.google.com/citations?user=Hpg2NCcAAAAJ&hl=en).
+
+
+** Publications**
+1. Hui-kai Zhang, Bowen Xu, Ziyao Jia, Bo Li, and Xi-Qiao Feng. (2024) Inverse design of three-dimensional multicellular biobots with target functions. Journal of the Mechanics and Physics of 
 Solids 187:105634. (related to the design of organoids)
 2. Hui-Kai Zhang, Wei-Tong Chen, Shi-Hao Xu, Jian Wu, Bo Li, and Xi-Qiao Feng. (2023). Active 
 topological phase transitions in high-order elastic topological insulators driven by pneumatic methods 
