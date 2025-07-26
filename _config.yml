@@ -24,21 +24,21 @@ author:
   # Biographic information
   avatar           : "zhk.png"
   name             : "Huikai Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He"
   bio              : "I am postdoctoral research fellow (Tsinghua University). My major research interests are biomechanics, computational mechanics, biophysics and optimization theory"
   location         : "Beijing"
   employer         : "Tsinghua University"
-  uri              : # URL
+  uri              : "https://scholar.google.com/citations?hl=en&user=l_1Pj34AAAAJ&view_op=list_works&sortby=pubdate" 
   email            : "zhk19@tsinghua.org.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=l_1Pj34AAAAJ&view_op=list_works&sortby=pubdate"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+ # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
