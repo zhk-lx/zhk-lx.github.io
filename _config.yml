@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "zhk.png"
   name             : "Huikai Zhang"
-  pronouns         : "He"
+  #pronouns         : "He"
   bio              : "I am postdoctoral research fellow (Tsinghua University). My major research interests are biomechanics, computational mechanics, biophysics and optimization theory"
   location         : "Beijing"
   employer         : "Tsinghua University"
