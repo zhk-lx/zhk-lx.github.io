@@ -13,8 +13,9 @@ My academic profile can be found on [Google Scholar](https://scholar.google.com/
 
 My recent ongoing work focuses on inverse optimization design of multicellular life (e.g., organoids), digital organs, and cells. 
 
-** Contacts**
-eMail: zhk19@tsinghua.org.cn; 
+*Contact*
+e-mail: zhk19@tsinghua.org.cn;
+If you are interested in my research, please keep in touch and collaborate with me. [Collaboration partners: professors, researchers, postdoctoral fellows, graduate students.]
 Institute of Biomechanics and Medical Engineering, AML, Department of Engineering Mechanics, 
 Tsinghua University, Beijing 100084, China
 
