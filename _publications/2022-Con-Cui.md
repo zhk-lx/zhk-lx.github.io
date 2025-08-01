@@ -5,7 +5,7 @@ category: conferences
 paperurl: 'https://zhk-lx.github.io/files/2022-Con-Cui.pdf'
 permalink: /publication/2022-Cui
 link: https://doi.org/10.52842/conf.caadria.2022.2.101
-date: 2025-07-22
+date: 2022-07-22
 excerpt: "Structural optimization-Metallic additive manufacturing <br/><img src='/images/2022-CAADRIA.gif'>"
 venue: 'Computer Aided Architectural Design'
 ---
