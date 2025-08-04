@@ -1,7 +1,7 @@
 ---
 title: "Hui-Kai Zhang, Jingyi Zhou, Wei Fang, Huichan Zhao, Zi-Long Zhao, Xindong Chen, Hong-Ping Zhao, and Xi-Qiao Feng. (2022). Multi-functional topology optimization of Victoria cruziana veins. Journal of the Royal Society Interface 19: 20220298."
 collection: publications
-category: conferences
+category: manuscript
 paperurl: 'https://zhk-lx.github.io/files/2022-rsif-zhk.pdf'
 permalink: /publication/2022-rsif-zhk
 link: https://doi.org/10.1098/rsif.2022.0298
