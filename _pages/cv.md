@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Postdoctoral researc nfellow (202307-)
+* Postdoctoral research fellow (2023/07-)
   * Tsinghua University
   * Supervisor: Xiqiao Feng (Professor)
   
