@@ -15,13 +15,13 @@ redirect_from:
 * Compuatation biology (Biophysics)
 * Structural optimization
 
-# Academic contributions (the past three years)
+## Education
 * 2019.09-2023.06 Ph.D., Tsinghua University, Mechanics
 Thesis title: Biological and biomimetic functional structures sculpted by topology 
-Supervisor: Prof. Xiqiao Feng
+Supervisor: [Prof. Xiqiao Feng](https://www.hy.tsinghua.edu.cn/info/1153/1806.htm)
 * 2016.09-2019.07
 M.S., Dalian University of Technology, Department of Engineering Mechanics, Computational Mechanics
-Supervisor: Prof. Zhan Kang
+Supervisor: [Prof. Zhan Kang](https://faculty.dlut.edu.cn/zhankang/zh_CN/index.htm)
 * 2012.09-2016.06 
 B.S., Lanzhou University of Technology, Engineering Mechanics (School of Science)
 
@@ -51,9 +51,7 @@ B.S., Lanzhou University of Technology, Engineering Mechanics (School of Science
 * 2018-Recipient of the Qian Lingxi Scholarship for Computational Mechanics, DLUT
   
 ## Projects
-* Inverse optimization theory and regulation of synthetic multicellular intelligent organoids (Brain organoids and assembloids) (Principal Investigator, Postdoctoral Innovative Talent Support Program, 640K RMB, ongoing, 2024-current)
-* Biomaterial research on brain diseases and neuro-regulation (Participation, from NSFC-National Natural Science Foundation of China, ongoing)
-
-
+* Inverse optimization theory and regulation of synthetic multicellular intelligent organoids (Principal Investigator, Postdoctoral Innovative Talent Support Program, 640K RMB, ongoing, 2024-current)
+* Biomaterial research on brain diseases and neuro-regulation (Participation, from NSFC-National Natural Science Foundation of China, ongoing, 2024-present)
 
 
