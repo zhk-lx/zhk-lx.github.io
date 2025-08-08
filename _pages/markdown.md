@@ -26,6 +26,7 @@ Supervisor: [Prof. Zhan Kang](https://faculty.dlut.edu.cn/zhankang/zh_CN/index.h
 B.S., Lanzhou University of Technology, Engineering Mechanics (School of Science)
 
 ## Publications
+
 ### 2025
 * Huawei Feng, Hui-Kai Zhang, Zhongqi Li, Junjie Zhou, Peidong Lei, and Bin Liu. (2025). A Biomimetic Moving-Mesh Topology Optimization Method. Available at SSRN 5034428
 ### 2024
