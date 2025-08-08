@@ -12,8 +12,8 @@ redirect_from:
 ## Research
 
 * Biomechanics
-* Compuatation biology (Biophysics)
-* Structural optimization
+* Computation biology (Biophysics)
+* Structural optimization 
 
 ## Education
 * 2019.09-2023.06 Ph.D., Tsinghua University, Mechanics
@@ -64,7 +64,6 @@ B.S., Lanzhou University of Technology, Engineering Mechanics (School of Science
 * 2018-Recipient of the Qian Lingxi Scholarship for Computational Mechanics, DLUT
   
 ## Projects
-* Inverse optimization theory and regulation of synthetic multicellular intelligent organoids (Principal Investigator, Postdoctoral Innovative Talent Support Program, 640K RMB, ongoing, 2024-current)
 * Biomaterial research on brain diseases and neuro-regulation (Participation, from NSFC-National Natural Science Foundation of China, ongoing, 2024-present)
 
 
