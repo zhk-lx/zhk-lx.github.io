@@ -26,10 +26,12 @@ Supervisor: [Prof. Zhan Kang](https://faculty.dlut.edu.cn/zhankang/zh_CN/index.h
 B.S., Lanzhou University of Technology, Engineering Mechanics (School of Science)
 
 ## News
-* My collaborator, Professor Xu, has won the 2025 China Future Science Prize. Congratulation! [Pro. Xing Xu ](https://www.youtube.com/watch?v=gPRyDqEG730)(https://www.futureprize.org/en/laureates/detail/96.html)(http://www.ynusky.ynu.edu.cn/info/1158/2704.htm)(http://www.ivpp.cas.cn/sourcedb/zw/rck/yszj/202311/t20231123_6925847.html)
+* 2025/08/06
+ * My collaborator, Professor Xu, has won the 2025 China Future Science Prize. Congratulation! [Prize ](https://www.futureprize.org/en/laureates/detail/96.html); [Youtube](https://www.youtube.com/watch?v=gPRyDqEG730)
+[Pro.Xu](http://www.ivpp.cas.cn/sourcedb/zw/rck/yszj/202311/t20231123_6925847.html);[Pro.Xu](http://www.ynusky.ynu.edu.cn/info/1158/2704.htm)
+
 
 ## Publications
-
 ### 2025
 * Huawei Feng, Hui-Kai Zhang, Zhongqi Li, Junjie Zhou, Peidong Lei, and Bin Liu. (2025). A Biomimetic Moving-Mesh Topology Optimization Method. Available at SSRN 5034428
 ### 2024
