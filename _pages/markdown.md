@@ -25,6 +25,9 @@ Supervisor: [Prof. Zhan Kang](https://faculty.dlut.edu.cn/zhankang/zh_CN/index.h
 * 2012.09-2016.06 
 B.S., Lanzhou University of Technology, Engineering Mechanics (School of Science)
 
+## News
+* My collaborator, Professor Xu, has won the 2025 China Future Science Prize. Congratulation! [Pro. Xing Xu ](https://www.youtube.com/watch?v=gPRyDqEG730)(https://www.futureprize.org/en/laureates/detail/96.html)(http://www.ynusky.ynu.edu.cn/info/1158/2704.htm)(http://www.ivpp.cas.cn/sourcedb/zw/rck/yszj/202311/t20231123_6925847.html)
+
 ## Publications
 
 ### 2025
