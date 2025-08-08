@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Doctor"
+title: "Dr. Zhang"
 author_profile: true
 redirect_from: 
   - /md/
