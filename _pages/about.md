@@ -2,7 +2,6 @@
 permalink: /
 title: " Misson lab for biological system optimization"
 author_profile: true
-link: https://clustrmaps.com/site/1bq4n
 redirect_from: 
   - /about/
   - /about.html
@@ -19,3 +18,4 @@ My recent ongoing work focuses on inverse optimization design of multicellular l
  * If you are interested in my research, please keep in touch and collaborate with me. [Collaboration partners: professors, researchers, postdoctoral fellows, graduate students.]
  * Institute of Biomechanics and Medical Engineering, AML, Department of Engineering Mechanics, Tsinghua University, Beijing 100084, China
 
+<a href='https://clustrmaps.com/site/1c7jl'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=GIKSc36mWdS4y3IrGUfH2QzWpiPmAy14wml8mOsxf28'/></a>
