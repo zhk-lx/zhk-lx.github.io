@@ -26,9 +26,7 @@ Supervisor: [Prof. Zhan Kang](https://faculty.dlut.edu.cn/zhankang/zh_CN/index.h
 B.S., Lanzhou University of Technology, Engineering Mechanics (School of Science)
 
 ## News
-* 2025/08/06
- * My collaborator, Professor Xu, has won the 2025 China Future Science Prize. Congratulation! [Prize ](https://www.futureprize.org/en/laureates/detail/96.html); [Youtube](https://www.youtube.com/watch?v=gPRyDqEG730)
-[Pro.Xu](http://www.ivpp.cas.cn/sourcedb/zw/rck/yszj/202311/t20231123_6925847.html);[Pro.Xu](http://www.ynusky.ynu.edu.cn/info/1158/2704.htm)
+* [2025/08/06] My collaborator, Professor Xu, has won the 2025 China Future Science Prize. Congratulation! [Prize ](https://www.futureprize.org/en/laureates/detail/96.html); [Youtube](https://www.youtube.com/watch?v=gPRyDqEG730) [Pro.Xu](http://www.ivpp.cas.cn/sourcedb/zw/rck/yszj/202311/t20231123_6925847.html);[Pro.Xu](http://www.ynusky.ynu.edu.cn/info/1158/2704.htm); [Google Scholar](https://scholar.google.com/citations?hl=en&user=aLblwX0AAAAJ&view_op=list_works&sortby=pubdate)
 
 
 ## Publications
@@ -54,7 +52,6 @@ B.S., Lanzhou University of Technology, Engineering Mechanics (School of Science
 * Hui-Kai Zhang, Yaguang Wang, and Zhan Kang. (2019). Topology optimization for concurrent design of layer-wise graded lattice materials and structures. International Journal of Engineering Science 138: 26-49. 
 ### 2018
 * Hui-Kai Zhang, Yangjun Luo, and Zhan Kang. (2018). Bi-material microstructural design of chiral auxetic metamaterials using topology optimization. Composite Structures 195: 232-248. 
-* [Gooele Scholar-zhk](https://scholar.google.com/citations?hl=en&user=l_1Pj34AAAAJ&view_op=list_works&sortby=pubdate)
 
 
 ## Awards
@@ -63,7 +60,9 @@ B.S., Lanzhou University of Technology, Engineering Mechanics (School of Science
 * 2023-Qinghang Scholar  (Tsinghua University)
 * 2018-Recipient of the Qian Lingxi Scholarship for Computational Mechanics, DLUT
   
-## Projects
+## Projects & Funding
 * Biomaterial research on brain diseases and neuro-regulation (Participation, from NSFC-National Natural Science Foundation of China, ongoing, 2024-present)
 
+
+## Academic services
 
