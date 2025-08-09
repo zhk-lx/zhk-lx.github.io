@@ -54,7 +54,7 @@ B.S., Lanzhou University of Technology, Engineering Mechanics (School of Science
 * Hui-Kai Zhang, Yangjun Luo, and Zhan Kang. (2018). Bi-material microstructural design of chiral auxetic metamaterials using topology optimization. Composite Structures 195: 232-248. 
 
 
-## Awards
+## Honors And Awards
 * 2024-China Postdoctoral Innovation Talent Support Program
 * 2024-Shuimu Postdoctoral Fellowship (Tsinghua University)
 * 2023-Qinghang Scholar  (Tsinghua University)
