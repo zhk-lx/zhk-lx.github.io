@@ -9,7 +9,7 @@ redirect_from:
 
 I am Huikai Zhang, a postdoctoral research fellow at the Institute of Biomechanics and Medical Engineering, Department of Engineering Mechanics, Tsinghua University. My research interests include biomechanics, biophysics, computational mechanics, and structural optimization theory. I have been awarded the “China Postdoctoral Innovation Talent Support Program”, the “Shuimu Postdoctoral Fellowship” at Tsinghua University, and the “Qinghang Scholar” title at Tsinghua University.   
 
-My academic profile can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=l_1Pj34AAAAJ&view_op=list_works&sortby=pubdate), and my advisor is Professor Xi-Qiao Feng, whose profile is also available on [Google Scholar](https://scholar.google.com/citations?user=Hpg2NCcAAAAJ&hl=en).
+My academic profile can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=l_1Pj34AAAAJ&view_op=list_works&sortby=pubdate), and my advisor is Professor Xi-Qiao Feng (Academician of the Chinese Academy of Sciences, 2025, A great theoretical contribution to Biomechanics!!!), whose profile is also available on [Google Scholar](https://scholar.google.com/citations?user=Hpg2NCcAAAAJ&hl=en).
 
 My recent ongoing work focuses on inverse optimization design of multicellular life (e.g., organoids), digital organs (e.g. brain), and neurons. 
 
