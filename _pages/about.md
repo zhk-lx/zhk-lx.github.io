@@ -17,10 +17,10 @@ My recent ongoing work focuses on inverse optimization design of multicellular l
 *Contact*
  * e-mail: zhk19@tsinghua.org.cn; zhanghk26@buct.edu.cn;
    College of Mechanical and Electrical Engineering, Beijing University of Chemical University, Beijing, China
-   Institute of Biomechanics and Medical Engineering, AML, Department of Engineering Mechanics, Tsinghua University, Beijing 100084, China
-
+   Institute of Biomechanics and Medical Engineering, AML, Department of Engineering Mechanics, Tsinghua University, Beijing 100084, China  
+   
 *Important news*
    Two two graduate student positions, 2027 (Mechanics, Mechanical engineering, and some releted fields)
    Two undergraduate students (2nd-3nd) scientific studies.
 
-<a href='https://clustrmaps.com/site/1c7jl'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=GIKSc36mWdS4y3IrGUfH2QzWpiPmAy14wml8mOsxf28'/></a>
+<a href='https://clustrmaps.com/site/1c7jl'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffffw=a&t=n&d=GIKSc36mWdS4y3IrGUfH2QzWpiPmAy14wml8mOsxf28'/></a>
