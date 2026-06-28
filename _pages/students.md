@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Students"
+permalink: /students/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Students
+Students in Lab
 ======
 * Huawen Miao, (Tsinghua University), 2023, Phd student  
 * Tianze Gui, (Tsinghua University), 2024, Phd student  
