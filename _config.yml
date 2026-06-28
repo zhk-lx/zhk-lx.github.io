@@ -271,7 +271,7 @@ defaults:
   # _students
   - scope:
       path: ""
-      type: studen
+      type: students
     values:
       layout: single
       author_profile: true
