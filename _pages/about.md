@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-< img src="images/Background.png" alt="Background" width="450">
+<img src='images/Background.png' alt='Background' width='450'>
+
 
 I am Huikai Zhang, Associate professor of Beijing University of Chemical University (BUCT, 2026.2-Now). Before that, i am a postdoctoral research fellow at the Institute of Biomechanics and Medical Engineering, Department of Engineering Mechanics, Tsinghua University. My research interests include biomechanics, biophysics, computational mechanics, and structural optimization theory. I have been awarded the “China Postdoctoral Innovation Talent Support Program”, the “Shuimu Postdoctoral Fellowship” at Tsinghua University, and the “Qinghang Scholar” title at Tsinghua University.   
 
