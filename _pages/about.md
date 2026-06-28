@@ -15,9 +15,9 @@ My academic profile can be found on [Google Scholar](https://scholar.google.com/
 My recent ongoing work focuses on inverse optimization design of multicellular life (e.g., organoids), digital organs (e.g. brain), neurons, and bionics. 
 
 *Contact*
- * e-mail: zhk19@tsinghua.org.cn; zhanghk26@buct.edu.cn;
-   College of Mechanical and Electrical Engineering, Beijing University of Chemical University, Beijing, China
-   Institute of Biomechanics and Medical Engineering, AML, Department of Engineering Mechanics, Tsinghua University, Beijing 100084, China  
+ * e-mail: zhk19@tsinghua.org.cn; zhanghk26@buct.edu.cn;  \n
+   * College of Mechanical and Electrical Engineering, Beijing University of Chemical University, Beijing, China
+   * Institute of Biomechanics and Medical Engineering, AML, Department of Engineering Mechanics, Tsinghua University, Beijing 100084, China  
    
 *Important news*  
    * Two graduate student positions, 2027 (Mechanics, Mechanical engineering, and some releted fields)
