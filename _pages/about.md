@@ -19,8 +19,8 @@ My recent ongoing work focuses on inverse optimization design of multicellular l
    College of Mechanical and Electrical Engineering, Beijing University of Chemical University, Beijing, China
    Institute of Biomechanics and Medical Engineering, AML, Department of Engineering Mechanics, Tsinghua University, Beijing 100084, China  
    
-*Important news*
-   Two two graduate student positions, 2027 (Mechanics, Mechanical engineering, and some releted fields)
-   Two undergraduate students (2nd-3nd) scientific studies.
+*Important news*  
+   * Two graduate student positions, 2027 (Mechanics, Mechanical engineering, and some releted fields)
+   * Two undergraduate students (2nd-3nd) for scientific studies (2026.7-2026.12).
 
 <a href='https://clustrmaps.com/site/1c7jl'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffffw=a&t=n&d=GIKSc36mWdS4y3IrGUfH2QzWpiPmAy14wml8mOsxf28'/></a>
