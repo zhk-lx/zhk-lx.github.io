@@ -3,13 +3,9 @@ layout: archive
 title: "Students"
 permalink: /students/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
-
-Students in Lab
+## Students in Lab
 ======
 * Huawen Miao, (Tsinghua University), 2023, Phd student  
 * Tianze Gui, (Tsinghua University), 2024, Phd student  
