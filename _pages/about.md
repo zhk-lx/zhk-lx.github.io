@@ -11,10 +11,10 @@ redirect_from:
 
 ## 重要信息
 *Important news*  
-   * Two graduate student positions, 2027 (Mechanics, Mechanical engineering, and some releted fields) 
+   * Two graduate student positions, 2027 (Mechanics, Mechanical engineering, or releted fields) 
      （2027届硕士研究生2名，保送或统考）
-   * Two undergraduate students (2nd-3nd) for scientific studies (2026.7-2026.12).
-     （2026/07-2026/12，两名本科生，生物或机械专业）
+   * One undergraduate student (3nd, 仅限三年级) for computational biology (Spatial omics).
+     （研究时间：2026/09-2027/09，一名本科生，生物专业）
 
 I am Huikai Zhang (Principle Investigator), Associate professor of Beijing University of Chemical University (BUCT, 2026.2-Now). Before that, i am a postdoctoral research fellow at the Institute of Biomechanics and Medical Engineering, Department of Engineering Mechanics, Tsinghua University. My research interests include biomechanics, biophysics, computational mechanics, and structural optimization theory. I have been awarded the “China Postdoctoral Innovation Talent Support Program”, the “Shuimu Postdoctoral Fellowship” at Tsinghua University, and the “Qinghang Scholar” title at Tsinghua University.   
 
