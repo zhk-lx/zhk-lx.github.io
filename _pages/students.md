@@ -11,14 +11,14 @@ author_profile: true
 * Tianze Gui, (Tsinghua University), 2024, Phd student  (Biomechanics)
 
 ## Undergraduate students
-* Yuming Jing, (Tsinghua University), 2025 (Mechanics)
-* Jiaming Yang, (Beijing University of Chemical Technology), 2026 (Mechanics, Mechanical engineering)
-* Daoqin Mu, (Beijing University of Chemical Technology), 2026 (Mechanics, Mechanical engineering)
-* Yuhan Bi, (Beijing University of Chemical Technology), 2026 (Biology)
-* Xubin Nan (Beijing University of Chemical Technology), 2026 (Mechanics, Mechanical engineering)
-* Chuning Chen (Beijing University of Chemical Technology), 2026 (Biology)
-* Zi Ye (Beijing University of Chemical Technology), 2026 (Biology) (-)
-* Jiabao Cheng (Beijing University of Chemical Technology), 2026 (Chemistry) 
-* Wenzhi Zhang (Beijing University of Chemical Technology), 2026 (Chemistry) 
+* Yuming Jing, (Tsinghua University), 2023 (Mechanics)
+* Jiaming Yang, (Beijing University of Chemical Technology), 2024 (Mechanics, Mechanical engineering)
+* Daoqin Mu, (Beijing University of Chemical Technology), 2025 (Mechanics, Mechanical engineering)
+* Yuhan Bi, (Beijing University of Chemical Technology), 2025 (Biology)
+* Xubin Nan (Beijing University of Chemical Technology), 2025 (Mechanics, Mechanical engineering)
+* Chuning Chen (Beijing University of Chemical Technology), 2025 (Biology)
+* Zi Ye (Beijing University of Chemical Technology), 2024 (Biology) (-)
+* Jiabao Cheng (Beijing University of Chemical Technology), 2025 (Chemistry) 
+* Wenzhi Zhang (Beijing University of Chemical Technology), 2025 (Chemistry) 
 
 
