@@ -35,6 +35,8 @@ B.S., Lanzhou University of Technology, Engineering Mechanics (School of Science
 
 
 ## Publications
+### 
+* 2026 Hui-Kai Zhang, Xi-Qiao Feng, and Xing Xu. (2026). Biomechanics-guided computational design of virtual terrestrial vertebrate morphogenesis. iScience.
 ### 2025
 * Huawei Feng, Hui-Kai Zhang, Zhongqi Li, Junjie Zhou, Peidong Lei, and Bin Liu. (2025). A Biomimetic Moving-Mesh Topology Optimization Method. International Journal for Numerical Methods in Engineering (IJNME), 2025
 ### 2024
